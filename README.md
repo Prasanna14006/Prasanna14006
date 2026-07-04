@@ -9,9 +9,8 @@ Transforming Data into Actionable Business Insights 📊
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Power+BI+Developer;SQL+Server+Expert;Python+Developer;Transforming+Data+into+Business+Insights;Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Data+Analyst;Power+BI+Developer;SQL+Server+Developer;Python+Programmer;Business+Intelligence+Enthusiast;Always+Learning" alt="Typing SVG"/>
 </p>
-
 
 ---
 
@@ -20,17 +19,18 @@ Transforming Data into Actionable Business Insights 📊
 - 📊 Passionate about transforming raw data into meaningful business insights.
 - 📈 Building end-to-end Business Intelligence solutions using Power BI and SQL Server.
 - 🗄️ Skilled in SQL Server, Python, Excel, DAX, Power Query, and Data Visualization.
-- ☁️ Currently learning Snowflake, AWS, and Tableau to strengthen my cloud and data analytics skills.
+- ☁️ Currently learning Snowflake, AWS, and Tableau to strengthen my cloud and analytics skills.
 - 🚀 I enjoy building real-world analytics projects that solve business problems.
 - 💼 Open to Data Analyst, Business Intelligence, and Power BI Developer opportunities.
 
 ---
+
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/prasanna-b-r-2b78142ba/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:prasannarajavel6@gmail.com">
@@ -40,6 +40,7 @@ Transforming Data into Actionable Business Insights 📊
 </p>
 
 ---
+
 # 💻 Tech Stack
 
 ## 📊 Data Analytics & Business Intelligence
@@ -58,10 +59,11 @@ Transforming Data into Actionable Business Insights 📊
 
 <img src="https://img.shields.io/badge/Tableau-Learning-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-
 </p>
 
 ## 🐍 Programming & Libraries
+
+<p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -69,7 +71,7 @@ Transforming Data into Actionable Business Insights 📊
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
@@ -119,37 +121,6 @@ An end-to-end Enterprise Business Intelligence solution developed using **SQL Se
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prasanna14006&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prasanna14006&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prasanna14006&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Prasanna14006&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
@@ -175,6 +146,14 @@ An end-to-end Enterprise Business Intelligence solution developed using **SQL Se
 > **"The goal is to turn data into information, and information into insight."**
 
 **— Carly Fiorina**
+
+---
+
+# 💡 Guiding Principle
+
+> **"Excellence is a continuous process and not an accident."**
+
+**— Dr. A. P. J. Abdul Kalam**
 
 ---
 
