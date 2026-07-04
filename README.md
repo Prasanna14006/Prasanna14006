@@ -29,8 +29,8 @@ Transforming Data into Actionable Business Insights 📊
 
 <p align="left">
 
-<a href="www.linkedin.com/in/prasanna-b-r2b78142ba" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/prasanna-b-r-2b78142ba/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:prasannarajavel6@gmail.com">
@@ -89,9 +89,7 @@ Transforming Data into Actionable Business Insights 📊
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-<img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
 
 </p>
 
@@ -125,9 +123,21 @@ An end-to-end Enterprise Business Intelligence solution developed using **SQL Se
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prasanna14006&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Prasanna14006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna14006&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna14006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prasanna14006&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
 
@@ -165,18 +175,10 @@ An end-to-end Enterprise Business Intelligence solution developed using **SQL Se
 
 # 💡 Favorite Quote
 
-> **"Without data, you're just another person with an opinion."**
+> **"The goal is to turn data into information, and information into insight."**
 
-**— W. Edwards Deming**
+**— Carly Fiorina**
 
-
-# 💡 Guiding Principle
-
-> **"Excellence is a continuous process and not an accident."**
-
-**— Dr. A. P. J. Abdul Kalam**
-
-📊 *I believe data becomes valuable only when it drives better decisions.*
 ---
 
 <h3 align="center">
