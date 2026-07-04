@@ -12,6 +12,7 @@ Transforming Data into Actionable Business Insights 📊
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Data+Analyst+📊;Power+BI+Developer+📈;SQL+Server+Enthusiast+🗄️;Python+Developer+🐍;Business+Intelligence+Professional;Always+Learning+New+Technologies+🚀" alt="Typing SVG"/>
 </p>
 
+
 ---
 
 # 👨‍💻 About Me
@@ -24,14 +25,12 @@ Transforming Data into Actionable Business Insights 📊
 - 💼 Open to Data Analyst, Business Intelligence, and Power BI Developer opportunities.
 
 ---
-
 # 🌐 Connect With Me
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
-<img src="www.linkedin.com/in/prasanna-b-r
-2b78142ba?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="www.linkedin.com/in/prasanna-b-r2b78142ba" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:prasannarajavel6@gmail.com">
@@ -41,7 +40,6 @@ Transforming Data into Actionable Business Insights 📊
 </p>
 
 ---
-
 # 💻 Tech Stack
 
 ## 📊 Data Analytics & Business Intelligence
