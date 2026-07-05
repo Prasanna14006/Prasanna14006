@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="D:\DOWNLOADS\banner.png" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Prasanna B R</h1>
 
 <h3 align="center">
