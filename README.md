@@ -3,8 +3,7 @@
 <!--                     PART 1 / 4                        -->
 <!-- ===================================================== -->
 
-<h1 align="center">
-  Hi 👋, I'm <br>
+<h1 align="center"><br>
   <b>Prasanna B R</b>
 </h1>
 
@@ -91,47 +90,6 @@ Seeking opportunities in
 ---
 
 # 👨‍💻 About Me
-
-```python
-class PrasannaBR:
-
-    def __init__(self):
-
-        self.role = "Data Analyst"
-
-        self.specialization = "Business Intelligence"
-
-        self.location = "Chennai, Tamil Nadu"
-
-        self.education = "B.Tech Information Technology"
-
-        self.college = "Velammal College of Engineering and Technology"
-
-        self.cgpa = "7.74"
-
-        self.current_learning = [
-            "Snowflake",
-            "AWS",
-            "Tableau"
-        ]
-
-        self.skills = [
-            "Power BI",
-            "SQL Server",
-            "Python",
-            "Excel",
-            "DAX",
-            "Power Query"
-        ]
-
-    def mission(self):
-
-        return "Transforming data into meaningful business insights."
-```
-
----
-
-## 💡 A Little About Me
 
 - 📊 Passionate about transforming raw data into meaningful business insights.
 
@@ -550,19 +508,6 @@ An end-to-end Business Intelligence project developed using **Microsoft SQL Serv
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
-
-- 📈 Total Revenue
-- 👨‍👩‍👧 Total Passengers
-- ✈️ Flight Performance
-- ⭐ Customer Satisfaction
-- 😊 Overall Rating
-- ⏱ Average Delay
-- 💺 Occupancy Rate
-- 📊 Business Performance
-
----
-
 ## 🛠 Technologies Used
 
 <p align="left">
@@ -581,53 +526,6 @@ An end-to-end Business Intelligence project developed using **Microsoft SQL Serv
 
 ---
 
-## 🏗 Project Architecture
-
-```
-Raw Dataset
-      │
-      ▼
-SQL Server Database
-      │
-      ▼
-ETL Process
-      │
-      ▼
-Data Cleaning
-      │
-      ▼
-Star Schema
-      │
-      ▼
-Power BI
-      │
-      ▼
-Interactive Dashboards
-      │
-      ▼
-Business Insights
-```
-
----
-
-## 📈 Business Value
-
-✔ Improved business reporting
-
-✔ Executive KPI Monitoring
-
-✔ Interactive Dashboarding
-
-✔ Better Decision Making
-
-✔ Data-Driven Insights
-
-✔ Customer Satisfaction Analysis
-
-✔ Airline Performance Monitoring
-
----
-
 ## 📂 Repository
 
 ⭐ **Pinned Repository**
@@ -640,7 +538,7 @@ SkyJet Airlines Enterprise Business Intelligence Dashboard
 
 ## 🎓 Bachelor of Technology
 
-**Information Technology**
+**Artificial Intelligence and Data Science**
 
 **Velammal College of Engineering and Technology**
 
@@ -812,8 +710,6 @@ I'm always interested in collaborating on projects involving:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Microsoft_Fabric-Learning-purple?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Snowflake-Learning-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
@@ -832,7 +728,6 @@ I'm always interested in collaborating on projects involving:
 - 📊 Publish enterprise-level Power BI dashboards.
 - 🗄 Master SQL Server and Snowflake.
 - ☁ Strengthen cloud analytics skills with AWS.
-- 📈 Learn Microsoft Fabric.
 - 💼 Contribute to impactful open-source analytics projects.
 - 🎯 Secure a Data Analyst / Business Intelligence role.
 
